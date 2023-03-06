@@ -37,7 +37,7 @@ body {
       "body"
       "info"
       "author";
-    margin-top: 5rem;
+    margin-top: 7rem;
     width: 300px;
     height: auto;
     position: relative;
@@ -149,6 +149,11 @@ body {
 
 .avatar {
     width: 30px;
+}
+
+hr {
+    margin-top: 1rem;
+    border: 0.1px solid var(--body-color);
 }
 
 .attribution a { 
