@@ -64,7 +64,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url('/images/icon-view.svg');
+    background-image: url('https://raw.githubusercontent.com/BlackFury117/NFT-preview-card-component/3a15a1ed270ef45d80cd859de1cc224667311d66/images/icon-view.svg');
     width: 50px;
     height: 50px;
     opacity: 1;
