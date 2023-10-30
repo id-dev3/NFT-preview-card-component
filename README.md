@@ -11,9 +11,9 @@
 <li>CSS (Flexbox & CSS Grid)</li>
 </ul> 
 
-You can preview it here ==> <a href="https://blackfury117.github.io/NFT-preview-card-component/">NFT preview card component</a> <br><br>
+You can preview it here ==> <a href="https://id-dev3.github.io/NFT-preview-card-component/">NFT preview card component</a> <br><br>
 
 ## Author
 
-Personal Website ==> <a href="https://blackfury117.github.io/">Black Fury</a> <br>
+Personal Website ==> <a href="https://id-dev3.github.io/">Black Fury</a> <br>
 Frontend Mentor ==> <a href="https://www.frontendmentor.io/profile/BlackFury117">@BlackFury117</a>
